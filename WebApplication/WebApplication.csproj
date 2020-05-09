@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeAnalysis.Analyzers">
+      <HintPath>..\..\..\..\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.codeanalysis.analyzers\1.1.0\analyzers\dotnet\cs\Microsoft.CodeAnalysis.Analyzers.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeAnalysis.CSharp.Analyzers">
+      <HintPath>..\..\..\..\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.codeanalysis.analyzers\1.1.0\analyzers\dotnet\cs\Microsoft.CodeAnalysis.CSharp.Analyzers.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.EntityFrameworkCore.Analyzers">
+      <HintPath>..\..\..\..\Users\khushbupanwala\.nuget\packages\microsoft.entityframeworkcore.analyzers\2.2.4\analyzers\dotnet\cs\Microsoft.EntityFrameworkCore.Analyzers.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+
+
+</Project>
